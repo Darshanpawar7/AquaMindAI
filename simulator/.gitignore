@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# Output / generated data
+*.csv
+*.json
+output/
+
+# Logs
+*.log
+
+# Editor
+.DS_Store

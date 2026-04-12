@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Trained model binaries (large — commit selectively)
+models/*.pkl
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store

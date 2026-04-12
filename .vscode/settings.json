@@ -1,0 +1,28 @@
+{
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/__pycache__/**": true,
+    "**/.pytest_cache/**": true,
+    "**/dist/**": true,
+    "**/.vite/**": true,
+    "**/.aws-sam/**": true,
+    "**/htmlcov/**": true,
+    "**/coverage/**": true
+  },
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    "**/.vite": true,
+    "**/.aws-sam": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    "**/dist": true,
+    "**/.vite": true
+  },
+  "git.ignoredRepositories": [],
+"scm.countBadge": "focused"
+}

@@ -1,0 +1,54 @@
+# ── Node ──────────────────────────────────────────────────────────────────
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# ── Build output ───────────────────────────────────────────────────────────
+dist/
+build/
+**/dist/
+**/.vite/
+
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ───────────────────────────────────────────────────
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# ── Pytest / coverage ─────────────────────────────────────────────────────
+.pytest_cache/
+**/.pytest_cache/
+.coverage
+htmlcov/
+coverage/
+
+# ── ML model binaries ─────────────────────────────────────────────────────
+*.pkl
+
+# ── AWS / SAM ─────────────────────────────────────────────────────────────
+.aws-sam/
+**/.aws-sam/
+*.zip
+
+# ── OS / Editor ───────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/*.code-workspace
+.idea/
+*.swp
+*.swo
+*.tmp
+*.bak

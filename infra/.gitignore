@@ -1,0 +1,13 @@
+# SAM build artifacts
+.aws-sam/
+*.zip
+
+# Deployment config with account-specific values
+# Remove this line if you want to share samconfig.toml
+samconfig.toml
+
+# Environment
+.env
+
+# Editor
+.DS_Store
