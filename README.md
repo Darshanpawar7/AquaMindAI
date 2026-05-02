@@ -862,7 +862,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🐛 Issues & Support
 
-Found a bug or have a question? Please [open an issue](https://github.com/DarshanPawar) on GitHub.
+Found a bug or have a question? Please [open an issue](https://github.com/DarshanPawar7) on GitHub.
 ---
 
 **Made with ❤️ for water infrastructure resilience.**
