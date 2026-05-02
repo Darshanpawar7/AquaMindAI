@@ -2,7 +2,7 @@
 
 **Intelligent Water Infrastructure Monitoring & Predictive Maintenance Platform**
 
-*By [Darshan P Pawar](https://github.com/DarshanPawar)*
+*By [Darshan P Pawar](https://github.com/DarshanPawar7)*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
@@ -862,10 +862,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🐛 Issues & Support
 
-Found a bug or have a question? Please [open an issue](https://github.com/DarshanPawar/AquaMindAI/issues) on GitHub.
-
-For security vulnerabilities, please email security@aquamind.ai instead of using the issue tracker.
-
+Found a bug or have a question? Please [open an issue](https://github.com/DarshanPawar) on GitHub.
 ---
 
 **Made with ❤️ for water infrastructure resilience.**
